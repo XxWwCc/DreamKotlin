@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DreamKotlin</string>
+
+    <string name="text_confirm">确定</string>
+    <string name="text_loading">加载中...</string>
+    <string name="text_no_data">暂无数据</string>
+    <string name="text_error">加载失败</string>
+    <string name="text_no_network">网络异常</string>
+</resources>
